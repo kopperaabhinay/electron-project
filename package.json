@@ -1,0 +1,22 @@
+{
+  "name": "madness",
+  "version": "0.0.1",
+  "description": "am writing it",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kopperaabhinay"
+  },
+  "keywords": [
+    "abhi"
+  ],
+  "author": "abhinay",
+  "license": "ISC"
+}
